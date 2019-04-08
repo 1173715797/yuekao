@@ -1,0 +1,19 @@
+ul li {
+    list-style: none;
+}
+
+.inner {
+    margin-top: 60px;
+    margin-left: -30px;
+    margin-right: 10px;
+}
+
+.wancheng {
+    background: orangered;
+    color: #fff;
+    font-size: 20px;
+    width: 350px;
+    border-radius: 25px;
+    margin-left: 40px;
+    margin-top: 250px;
+}
